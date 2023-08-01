@@ -1,0 +1,24 @@
+{
+  "name": "react-autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "UNLICENSED",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-app-polyfill": "^2.0.0",
+    "react-dev-utils": "^11.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "5.0.1",
+    "yarn": "1.22.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
